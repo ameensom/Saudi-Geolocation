@@ -1,1 +1,27 @@
-/node_modules
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+node_modules/
+# General
+# =======
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+logs/
+build/
+# Visual Studio
+# =========
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
