@@ -1,0 +1,24 @@
+{
+  "name": "saudigeolocation",
+  "version": "1.0.0",
+  "description": "Script to connect to mysql database and export the data into json, after decoding the polyline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "geolocations",
+    "saudi",
+    "arabia",
+    "distrcits",
+    "cities"
+  ],
+  "repository": {
+    "url": "https://github.com/ameensom/Saudi-Geolocation.git"
+  },
+  "author": "Amin Mahfouz",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "github:mysqljs/mysql"
+  }
+}
