@@ -8,7 +8,7 @@ The location was an encoded polyline using Google Maps Polyline encoding, which 
 It can be viewed using phpMyAdmin , selecting a city then clicking on **Visualize GIS data**
 
 
-##My Contribution
+## My Contribution
 What I've done in this version is converting the database to JSON format and decoding the polyline to be an array contains group elements and each group has latitude and longitude keys.
 
 I've also attached the script used to do the whole process.
